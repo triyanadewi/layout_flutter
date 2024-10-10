@@ -108,17 +108,21 @@ Hasil Praktikum: <br>
 2. Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses sumber ini: https://docs.flutter.dev/codelabs/layout-basics
 <br>
 
-    **Pengerjaan :** https://github.com/triyanadewi/basic_layout_flutter 
-    <br>
-    Kode Program: <br>
-    - lib/main.dart
-    ![Hasil Tugas Praktikum 1](/images/tp1_main.png)
-    - pubspec.yaml
-    ![Hasil Tugas Praktikum 1](/images/tp1_yaml.png)
-    Hasil Praktikum: <br>
-    - Android
-    ![Hasil Tugas Praktikum 1 Android](/images/hasil_tp1A.png)
-    - Google Chrome
-    ![Hasil Tugas Praktikum 1 Chrome](/images/hasil_tp1C.png)
+**Pengerjaan :** https://github.com/triyanadewi/basic_layout_flutter 
+<br>
+
+Kode Program: <br>
+- lib/main.dart
+![Hasil Tugas Praktikum 1](/images/tp1_main.png)
+    
+- pubspec.yaml
+![Hasil Tugas Praktikum 1](/images/tp1_yaml.png)
+
+Hasil Praktikum: <br>
+- Android
+![Hasil Tugas Praktikum 1 Android](/images/hasil_tp1A.png)
+
+- Google Chrome
+![Hasil Tugas Praktikum 1 Chrome](/images/hasil_tp1C.png)
 
 3. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
